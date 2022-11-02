@@ -22,6 +22,7 @@ I work at Arawa as a trainer, but, when I'm not training, **I regularly contribu
 ##### As a newbie, still learning : 
 <a href="#">![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</a>
 <a href="#">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
+<a href="#">![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</a>
 
 #### The Operating Systems and softwares that I use : 
 <a href="#">![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a>
