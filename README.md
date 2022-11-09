@@ -5,6 +5,8 @@ I work at Arawa as a trainer, but, when I'm not training, **I regularly contribu
 
 <a href="https://www.nextcloud.com">![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)</a>
 
+Follow me on <a rel="me" href="https://mastodon.zaclys.com/@jerome_herbinet">Mastodon</a>.
+
 <!--<a href="#">![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jerome-Herbinet&show_icons=true)</a>-->
 
 #### Some links to follow me : 
