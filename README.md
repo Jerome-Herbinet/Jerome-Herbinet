@@ -9,8 +9,9 @@ I work at Arawa as a trainer and Community Manager, but, when I'm not training, 
 
 #### Some other contribution places where you can find me : 
 <a href="https://gitlab.com/Jerome-Herbinet">![GitLab](https://img.shields.io/badge/GitLab-%23e24329.svg?style=for-the-badge&logo=GitLab&logoColor=white)</a>
-<a href="https://app.transifex.com/user/profile/J%C3%A9r%C3%B4me_HERBINET/">![Transifex](https://img.shields.io/badge/Transifex-%23385b93.svg?style=for-the-badge&logo=Transifex&logoColor=white)</a>
 <a href="https://www.openstreetmap.org/user/J%C3%A9r%C3%B4me%20HERBINET">![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-%237ebc6f.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)</a>
+<a href="https://app.transifex.com/user/profile/J%C3%A9r%C3%B4me_HERBINET/">![Transifex](https://img.shields.io/badge/Transifex-%23385b93.svg?style=for-the-badge&logo=Transifex&logoColor=white)</a>
+<a href="https://hosted.weblate.org/user/J%C3%A9r%C3%B4me_HERBINET/">![Weblate](https://img.shields.io/badge/Weblate-%231fa385.svg?style=for-the-badge&logo=Weblate&logoColor=white)</a>
 
 #### Some links to follow me : 
 <a href="https://mastodon.zaclys.com/@jerome_herbinet">![Mastodon](https://img.shields.io/badge/-MASTODON-%238c8dff?style=for-the-badge&logo=mastodon&logoColor=white)</a> 
