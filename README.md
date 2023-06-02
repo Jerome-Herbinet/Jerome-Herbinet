@@ -5,6 +5,10 @@ I work at Arawa as a trainer and Community Manager, but, when I'm not training, 
 
 <a href="https://www.nextcloud.com">![Nextcloud](https://img.shields.io/badge/NextCloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Herbinet&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Herbinet&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--<a href="#">![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jerome-Herbinet&show_icons=true)</a>-->
 
 #### Some other contribution places where you can find me : 
