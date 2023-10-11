@@ -1,7 +1,5 @@
 ### Hello everyone 👋
 
-<img src="https://myreadme.vercel.app/api/embed/Jerome-Herbinet?panels=userstatistics,commitgraph,toplanguages" />
-
 Welcome to my GitHub profile. 
 I work at Arawa as a trainer and Community Manager, but, when I'm not training, **I regularly contribute to Nextcloud and its applications**, mainly by reporting bugs, or suggesting functional or UX/UI improvements, or doing some PR to fix and improve some parts of the UI, for a better UX.
 
