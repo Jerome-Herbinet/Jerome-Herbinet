@@ -15,8 +15,8 @@ I work at Arawa as a trainer and Community Manager, but, when I'm not training, 
 <a href="https://hosted.weblate.org/user/J%C3%A9r%C3%B4me_HERBINET/">![Weblate](https://img.shields.io/badge/Weblate-%231fa385.svg?style=for-the-badge&logo=Weblate&logoColor=white)</a>
 
 #### Some links to follow me : 
-<a href="https://mastodon.zaclys.com/@jerome_herbinet">![Mastodon](https://img.shields.io/badge/-MASTODON-%238c8dff?style=for-the-badge&logo=mastodon&logoColor=white)</a> 
-<a href="https://peertube.iriseden.eu/c/documentaires_logiciels_libres_et_gafam">![PeerTube](https://img.shields.io/badge/-PEERTUBE-%23f2690d?style=for-the-badge&logo=peertube&logoColor=white)</a> 
-<a href="https://www.twitter.com/Jerome_Herbinet">![Bluesky](https://img.shields.io/badge/Bluesky-%23208bfe.svg?style=for-the-badge&logo=Bluesky&logoColor=white)</a> 
+<a href="https://pouet.chapril.org/@jerome_herbinet">![Mastodon](https://img.shields.io/badge/-MASTODON-%238c8dff?style=for-the-badge&logo=mastodon&logoColor=white)</a> 
+<a href="https://videos.domainepublic.net/a/jerome_herbinet/">![PeerTube](https://img.shields.io/badge/-PEERTUBE-%23f2690d?style=for-the-badge&logo=peertube&logoColor=white)</a> 
+<a href="https://bsky.app/profile/jerome-herbinet.bsky.social">![Bluesky](https://img.shields.io/badge/Bluesky-%23208bfe.svg?style=for-the-badge&logo=Bluesky&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%B4me-herbinet-bb99a547/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="https://www.hygiene-numerique.com">![Wordpress](https://img.shields.io/badge/Blog-%23333333.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
